@@ -1,0 +1,26 @@
+{
+  "name": "websocket-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nimesha-edirisinghe/websocket-starter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nimesha-edirisinghe/websocket-starter/issues"
+  },
+  "homepage": "https://github.com/nimesha-edirisinghe/websocket-starter#readme",
+  "dependencies": {
+    "websocket": "^1.0.32"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
